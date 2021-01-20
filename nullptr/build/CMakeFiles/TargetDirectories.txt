@@ -1,0 +1,3 @@
+/home/surajkra/Desktop/Academics/C++ Training/nullptr/build/CMakeFiles/rebuild_cache.dir
+/home/surajkra/Desktop/Academics/C++ Training/nullptr/build/CMakeFiles/nullptr.dir
+/home/surajkra/Desktop/Academics/C++ Training/nullptr/build/CMakeFiles/edit_cache.dir

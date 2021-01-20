@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//ToDo.h
+
+/home/surajkra/Desktop/Academics/C++ Training/ToDo.cpp
+ToDo.h
+-
+
+/home/surajkra/Desktop/Academics/C++ Training/main.cpp
+ToDo.h
+-
+iostream
+-
+
