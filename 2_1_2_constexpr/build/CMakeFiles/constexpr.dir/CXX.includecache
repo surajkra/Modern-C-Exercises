@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/surajkra/Desktop/Academics/Modern-Cpp-Exercises/2_1_2_constexpr/constexpr.cpp
+iostream
+-
+
